@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DOUBLEAKASHSINGH
-- 👀 I’m interested in Graphic design 
-- 🌱 I’m currently learning graphic designing and compilier design 
+- 👋 Hi, I’m AKASHSINGH
+- 👀 I’m interested in Software engineering, Computer graphics and Machine learning.
+- 📫 I'm working on Handwriting letters recognition in Machine learning.
+- 🌱 I’m currently learning Computer graphics and Machine learning.
 - 📫 How to reach me via-Linkedin = https://www.linkedin.com/mwlite/in/akash-singh-735ab6212
 
 <!---
